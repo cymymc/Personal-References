@@ -56,7 +56,7 @@ memccpy		| ft_strdel		| ft_lstadd		| ft_isspace
 
 
 ### Link 
-should arrive here when *"Link"* is clicked
+* should arrive here when *"Link"* is clicked
 
 [Footnote Links][1] 
 
@@ -65,7 +65,7 @@ should arrive here when *"Link"* is clicked
 
 
 ### subcategory link
-should arrive here when *"Subcategory Link"* is clicked
+* should arrive here when *"Subcategory Link"* is clicked
 
 
 ### Hidden Footnotes
