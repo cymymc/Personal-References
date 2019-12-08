@@ -7,7 +7,7 @@ What you see in readme -----> What you should type to apply effect
 The above and current line of text demonstrate default size and font for text body in edit mode.
 
 
-*italicized text* -----> "*"quote desired text with"*"
+*italicized text* -----> "* quote desired text with *"
 
 
 ### Table of Contents -----> ### 3rd Header 
