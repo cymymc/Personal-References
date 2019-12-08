@@ -12,7 +12,10 @@ The above and current line of text demonstrate default size and font for text bo
 
 ### Table of Contents -----> ### 3rd Header 
 * [Link](#link) -----> * [ Asterisk for Bullet, Brackets for Link w/o space at the ends ] (#will-be-directed-to-respective-header)
-  1. [This Subcategory Link Has Five Words](#redirected-header-doesn't) -----> 1. "[Number links for subcategorization]" (#followed by same linker)  
+  1. [Subcategory Link](#subcategory-link) -----> 1. "[Number links for subcategorization]" (#followed by same linker)  
+
+
+
 
 
 RANDOM TEXT STARTS
@@ -40,5 +43,5 @@ RANDOM TEXT ENDS
 should arrive here when "Link" is clicked
 
 
-### redirected-header-doesn't
+### subcategory link
 should arrive here when "This Subcategory Link Has Five Words" is clicked
