@@ -57,6 +57,7 @@ memccpy		| ft_strdel		| ft_lstadd		| ft_isspace
 
 ### Link 
 *should arrive here when "Link" is clicked*
+
 [Footnote Links][1] 
 
     [links][1] == [footnote links][Number ub respective order] 
