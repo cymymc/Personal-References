@@ -5,12 +5,15 @@ What you see in README visual mode.
 
     Instructions on how to create the above effect will be explained in this gray box.
 
+Example Text
 
     The above line of text demonstrate default size and font for text body in edit mode.
     Text in this gray box is created after 2 tabs in edit mode.
 
 
-*italicized text* -----> * quote desired text with *asterisk* without space at the ends*
+*italicized text* 
+        
+        *example text*
 
 NO SPACES AT THE ENDS == x_@ends
 
