@@ -57,3 +57,8 @@ RANDOM TEXT ENDS
 
 ### subcategory link
 should arrive here when "Subcategory Link" is clicked
+
+
+### Hidden Footnotes
+
+[1]: https://www.fakelinkjustfordemo.com"
