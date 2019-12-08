@@ -1,11 +1,9 @@
-# MARKDOWN Legend -----> # MAIN Header
+# MARKDOWN Legend
 
+    //Instructions on how to create the above effect will be explained in this gray box.//
+    # Main Header
 
 What you see in README visual mode.
-
-    Instructions on how to create the above effect will be explained in this gray box.
-
-Example Text
 
     The above line of text demonstrate default size and font for text body in edit mode.
     Text in this gray box is created after 2 tabs in edit mode.
