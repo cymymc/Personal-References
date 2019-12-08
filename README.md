@@ -23,7 +23,7 @@ NO SPACES AT THE ENDS == x_@ends
 * [Link](#link)
   1. [Subcategory Link](#subcategory-link)   
 
-            ### 3rd Header
+         ### Table of Contents
             * [Asterisk for Bullet, Brackets for Link](#)
             (#will-be-directed-to-respective-header-with-same-title-content-in-lowercase)
                 1. [Number links for subcategorization] (#see above)
