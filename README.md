@@ -13,17 +13,17 @@ What you see in README visual mode.
     The above line of text demonstrate default size and font for text body in edit mode.
 
 
-*italicized text* 
+*example text* 
         
-        *example text*
+        *italicized text*
 
-**text in bold**
+**example text**
     
-        **example text**
+        **text in bold**
 
-`individual gray boxed text`
+`example text`
     
-        `example text`
+        `individual gray boxed text`
         
 
 ### Table of Contents
