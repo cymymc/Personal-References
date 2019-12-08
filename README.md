@@ -17,7 +17,14 @@ What you see in README visual mode.
         
         *example text*
 
-NO SPACES AT THE ENDS == x_@ends
+**text in bold**
+    
+        **example text**
+
+`individual gray boxed text`
+    
+        `example text`
+        
 
 ### Table of Contents
 * [Link](#link) *a local link that will be redirected to a respective header with same title*
@@ -28,6 +35,47 @@ NO SPACES AT THE ENDS == x_@ends
                 1. [Subcategory Link] (#subcategory-link)
             
             
+## Create a Table
+
+Libc functions | Additional functions | Bonus Functions | Personal Functions
+:----------- | :-----------: | :-----------: | -----------:
+memset		| ft_memalloc	| ft_lstnew		| ft_capitalize 
+bzero		| ft_memdel		| ft_lstdelone	| ft_countwords 
+memcpy		| ft_strnew		| ft_lstdel		| ft_numlen    
+memccpy		| ft_strdel		| ft_lstadd		| ft_isspace    
+
+        
+        ## How To Create a Table
+        Libc functions | Additional functions | Bonus Functions | Personal Functions
+        :----------- | :-----------: | :-----------: | -----------:
+        memset		| ft_memalloc	| ft_lstnew		| ft_capitalize 
+        bzero		| ft_memdel		| ft_lstdelone	| ft_countwords 
+        memcpy		| ft_strnew		| ft_lstdel		| ft_numlen    
+        memccpy		| ft_strdel		| ft_lstadd		| ft_isspace    
+
+
+
+### Link 
+*should arrive here when "Link" is clicked*
+[Footnote Links][1] 
+
+    [links][1] == [footnote links][Number ub respective order] 
+    (See all footnotes/links at the very bottom, only visable in edit mode)
+
+
+### subcategory link
+*should arrive here when "Subcategory Link" is clicked
+
+
+### Hidden Footnotes
+
+[1]: https://www.fakelinkjustfordemo.com"
+
+    (A List of Footnote URLs Hidden in Visual Mode)
+    This is what you will see in edit mode:
+    [1]: https://www.fakelinkjustfordemo0.com"
+    [2]: https://www.fakelinkjustfordemo1.com"
+    [3]: https://www.fakelinkjustfordemo2.com"
 
 
 
@@ -47,18 +95,3 @@ No depending be convinced in unfeeling he. Excellence she unaffected and too sen
 
 
 RANDOM TEXT ENDS
-
-### Link (*should arrive here when "Link" is clicked*)
-[Footnote Links][1] 
-
-    [links][1] == [footnote links][Number ub respective order] 
-    (See all footnotes/links at the very bottom, edit mode only)
-
-
-### subcategory link
-should arrive here when "Subcategory Link" is clicked
-
-
-### Hidden Footnotes
-
-[1]: https://www.fakelinkjustfordemo.com"
