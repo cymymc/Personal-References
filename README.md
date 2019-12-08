@@ -24,9 +24,8 @@ NO SPACES AT THE ENDS == x_@ends
   1. [Subcategory Link](#subcategory-link)   
 
          ### Table of Contents
-            * [Asterisk for Bullet, Brackets for Link Title](#)
-            (#should-be-same-as-link-title-except-in-this-format-plus-all-lowercase)
-                1. [Number links for subcategorization] (#see above)
+            * [Link Title](#link-title) *text*
+                1. [Subcategory Link] (#subcategory-link)
             
             
 
