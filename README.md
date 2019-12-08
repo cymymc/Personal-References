@@ -1,7 +1,9 @@
 # MARKDOWN Legend -----> # MAIN Header
 
 
-What you see in readme -----> What you should type to apply effect
+What you see in README visual mode.
+
+    Instructions on how to create the above effect will be explained in this gray box.
 
 
     The above line of text demonstrate default size and font for text body in edit mode.
