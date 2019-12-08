@@ -1,17 +1,26 @@
-# Template Legend --> # MAIN HEADER
+# Template Legend -----> # MAIN HEADER
 
 
-    What you see in readme --> What you see in edit mode(This line of text will be in gray font after 2 tabs in *edit mode*)
+What you see in readme -----> What you should type to apply effect
 
 
-Default text size for body without any font styling in edit mode.
+The above and current line of text demonstrate default size and font for text body in edit mode.
 
 
-*italicized text* --> **Quote desired text with "*"**
+*italicized text* -----> "*quote desired text with*"
 
-### Table of Contents --> ### 3rd Header
-* [Link](#link) --> * [[Star for Bullet, Bracket for Link]] (#link-visual-footnote-can-be-totally-different-from-visual)???
-  1. [Subcategory](#subcategory) --> 1. [[Number links for subcategorization]]((##need paratheses and hashtags to create local link))
-  
 
-[More Links][1] --> [[More Links]][[Number in respective footnote order]] (See the very bottom in edit mode for footnote url links)
+### Table of Contents -----> ### 3rd Header 
+* [Link](#link) -----> * "[" Star for Bullet, Bracket for Link "]" (#goes-to-respective-header)???
+  1. [Subcategory](#subcategory) -----> 1. "[Number links for subcategorization]" (#followed by same linker)  
+
+### link
+[More Links][1] -----> [[More Links]][[Number in respective footnote order]] (See the very bottom in edit mode for footnote url links)
+
+
+### goes to respective header 
+should arrive here when "Link" is clicked
+
+
+### followed by same linker
+should arrive here when "Subcategory" is clicked
