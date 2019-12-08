@@ -20,12 +20,12 @@ What you see in README visual mode.
 NO SPACES AT THE ENDS == x_@ends
 
 ### Table of Contents
-* [Link](#link)
+* [Link](#link) *a local link that will be redirected to a respective header with same title*
   1. [Subcategory Link](#subcategory-link)   
 
          ### Table of Contents
-            * [Asterisk for Bullet, Brackets for Link](#)
-            (#will-be-directed-to-respective-header-with-same-title-in-lowercase)
+            * [Asterisk for Bullet, Brackets for Link Title](#)
+            (#should-be-same-as-link-title-except-in-this-format-plus-all-lowercase)
                 1. [Number links for subcategorization] (#see above)
             
             
