@@ -9,10 +9,11 @@ The above and current line of text demonstrate default size and font for text bo
 
 *italicized text* -----> * quote desired text with *asterisk* without space at the ends*
 
+NO SPACES AT THE ENDS == x_@ends
 
 ### Table of Contents -----> ### 3rd Header 
-* [Link](#link) -----> * [ Asterisk for Bullet, Brackets for Link w/o space at the ends ] (#will-be-directed-to-respective-header)
-  1. [Subcategory Link](#subcategory-link) -----> 1. "[Number links for subcategorization]" (#followed by same linker)  
+* [Link](#link) -----> * [ Asterisk for Bullet, Brackets for Link x_@ends ] (#will-be-directed-to-respective-header-with-same-title-content-in-lowercase)
+  1. [Subcategory Link](#subcategory-link) -----> 1. [ Number links for subcategorization x_@ends ] (#see above)  
 
 
 
@@ -44,4 +45,4 @@ should arrive here when "Link" is clicked
 
 
 ### subcategory link
-should arrive here when "This Subcategory Link Has Five Words" is clicked
+should arrive here when "Subcategory Link" is clicked
