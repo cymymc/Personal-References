@@ -15,11 +15,16 @@ What you see in README visual mode.
 
 NO SPACES AT THE ENDS == x_@ends
 
-### Table of Contents -----> ### 3rd Header 
-* [Link](#link) -----> * [ Asterisk for Bullet, Brackets for Link x_@ends ] (#will-be-directed-to-respective-header-with-same-title-content-in-lowercase)
-  1. [Subcategory Link](#subcategory-link) -----> 1. [ Number links for subcategorization x_@ends ] (#see above)  
+### Table of Contents
+* [Link](#link)
+  1. [Subcategory Link](#subcategory-link)   
 
-
+            ### 3rd Header
+            * [Asterisk for Bullet, Brackets for Link](#)
+            (#will-be-directed-to-respective-header-with-same-title-content-in-lowercase)
+                1. [Number links for subcategorization] (#see above)
+            
+            
 
 
 
