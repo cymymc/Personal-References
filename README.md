@@ -5,7 +5,7 @@ What you see in readme -----> What you should type to apply effect
 
 
     The above line of text demonstrate default size and font for text body in edit mode.
-    Current lines of text will be boxed in gray container after 2 tabs in edit mode.
+    Text in this gray box is created after 2 tabs in edit mode.
 
 
 *italicized text* -----> * quote desired text with *asterisk* without space at the ends*
