@@ -1,4 +1,4 @@
-# MARKDOWN Legend -----> # MAIN HEADER
+# MARKDOWN Legend -----> # MAIN Header
 
 
 What you see in readme -----> What you should type to apply effect
@@ -11,8 +11,34 @@ The above and current line of text demonstrate default size and font for text bo
 
 
 ### Table of Contents -----> ### 3rd Header 
-* [Link](#link) -----> * "[" Star for Bullet, Bracket for Link "]" (#goes-to-respective-header)???
+* [Link](#link) -----> * [ Asterisk for Bullet, Bracket for Link ] (#goes-to-respective-header)???
   1. [Subcategory](#subcategory) -----> 1. "[Number links for subcategorization]" (#followed by same linker)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### link
 [More Links][1] -----> [[More Links]][[Number in respective footnote order]] (See the very bottom in edit mode for footnote url links)
