@@ -48,16 +48,11 @@ No depending be convinced in unfeeling he. Excellence she unaffected and too sen
 
 RANDOM TEXT ENDS
 
-### link
-[More Links][1] *should arrive here when "Link" is clicked*
- for footnote url links)
+### Link
+[Footnote Links][1] *should arrive here when "Link" is clicked*
 
     [links][1] == [footnote links][Number ub respective order] 
     (See all footnotes/links at the very bottom, edit mode only)
-
-
-### goes to respective header 
-should arrive here when "Link" is clicked
 
 
 ### subcategory link
