@@ -25,7 +25,7 @@ NO SPACES AT THE ENDS == x_@ends
 
          ### Table of Contents
             * [Asterisk for Bullet, Brackets for Link](#)
-            (#will-be-directed-to-respective-header-with-same-title-content-in-lowercase)
+            (#will-be-directed-to-respective-header-with-same-title-in-lowercase)
                 1. [Number links for subcategorization] (#see above)
             
             
@@ -50,7 +50,11 @@ No depending be convinced in unfeeling he. Excellence she unaffected and too sen
 RANDOM TEXT ENDS
 
 ### link
-[More Links][1] -----> [[More Links]][[Number in respective footnote order]] (See the very bottom in edit mode for footnote url links)
+[More Links][1] *should arrive here when "Link" is clicked*
+ for footnote url links)
+
+    [links][1] == [footnote links][Number ub respective order] 
+    (See all footnotes/links at the very bottom, edit mode only)
 
 
 ### goes to respective header 
