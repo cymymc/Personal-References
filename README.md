@@ -36,15 +36,15 @@ ________________________________________________________________________________
 
 # Example Text - Main Header(0)
     
-            # Main Header
+        # Main Header
     
 ## Example Text - Sub Header(1)
     
-            ## Double Hashtags
+        ## Double Hashtags
     
 ### Example Text - Sub Header(2)
 
-            ### Triple Hashtags
+        ### Triple Hashtags
     
 _________________________________________________________________________________________________________
 
