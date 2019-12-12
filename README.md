@@ -138,7 +138,7 @@ ________________________________________________________________________________
 
 [Footnote Links][1] 
 
-    [links][1] == [footnote links][Number ub respective order] 
+    [link][1] == [footnote link title][number in respective order] 
     (See all footnotes/links at the very bottom, only visable in edit mode)
     
 [1]: https://www.fakelinkjustfordemo.com"
