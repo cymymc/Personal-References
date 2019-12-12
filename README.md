@@ -19,7 +19,7 @@ ________________________________________________________________________________
 * [Text Styling](#text-styling)
     1. *italicized text*
     2. **bold text**
-    3. `gray-color padded text` (only selected text content)
+    3. `gray-color padded text` (only selected text)
     4. text in gray box 
 * [Create a Table](#create-a-table)
 * [How to Create a Link](#how-to-create-a-link)
