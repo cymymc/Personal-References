@@ -24,7 +24,7 @@ ________________________________________________________________________________
     4. `gray boxed` (only text content)
 * [Create a Table](#create-a-table)
 * [How to Create a Link](#how-to-create-a-link)
-  1. [Subcategory Link](#subcategory-link)   
+  1. [subcategory link](#subcategory-link)   
 * [Add Image(s)](#add-image(s))
 * [Hidden Footnotes](#hidden-notes)
             
@@ -102,11 +102,9 @@ ________________________________________________________________________________
 
 
 ### HOW TO CREATE A LINK 
-* should arrive here when *"Link"* is clicked
-*a local link that will be redirected to a respective header
+* *a local link that will be redirected to a respective header
 
-### SUBCATEGORY LINK
-* should arrive here when *"Subcategory Link"* is clicked
+    ### subcategory link
 
          ### Table of Contents
             * [Link Title](#link-title) *text*
