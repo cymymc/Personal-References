@@ -1,17 +1,54 @@
 # Basic Legend for Markdown Files
 
-    # Main Header
 
-
+### here
 Instructions on how to create the above effect will be explained in gray boxes.
     
     Text in this gray box is created after 2 tabs in edit mode.
-
-
+    
 What you see in README visual mode.
 
     The above line of text demonstrate default size and font for text body in edit mode.
+    
 
+_________________________________________________________________________________________________________
+
+
+
+### Table of Contents:
+* [Headers](#headers)
+* [Text Styling](#text-styling)
+    1. *italicized
+    2. **bold
+    3. gray boxed (fully padded)[see above](#here)
+    4. `gray boxed` (only text content)
+* Create a Table
+* [How to Create a Link](#how-to-create-a-link) *a local link that will be redirected to a respective header with same title*
+  1. [Subcategory Link](#subcategory-link)   
+* Add Image
+* Hidden Footnotes
+            
+_________________________________________________________________________________________________________
+
+
+### HEADERS
+
+
+# Example Text - Main Header(0)
+    
+    # Main Header
+    
+## Example Text - Sub Header(1)
+    
+    ## Double Hashtags
+    
+### Example Text - Sub Header(2)
+
+    ### Triple Hashtags
+    
+_________________________________________________________________________________________________________
+
+### TEXT STYLING
 
 *example text* 
         
@@ -25,15 +62,8 @@ What you see in README visual mode.
     
         `individual gray boxed text`
         
+ _________________________________________________________________________________________________________
 
-### Table of Contents
-* [Link](#link) *a local link that will be redirected to a respective header with same title*
-  1. [Subcategory Link](#subcategory-link)   
-
-         ### Table of Contents
-            * [Link Title](#link-title) *text*
-                1. [Subcategory Link] (#subcategory-link)
-            
             
 ## Create a Table
 
@@ -54,8 +84,7 @@ memccpy		| ft_strdel		| ft_lstadd		| ft_isspace
         memccpy		| ft_strdel		| ft_lstadd		| ft_isspace    
 
 
-
-### Link 
+### How to Create a Link 
 * should arrive here when *"Link"* is clicked
 
 [Footnote Links][1] 
@@ -63,10 +92,12 @@ memccpy		| ft_strdel		| ft_lstadd		| ft_isspace
     [links][1] == [footnote links][Number ub respective order] 
     (See all footnotes/links at the very bottom, only visable in edit mode)
 
-
 ### subcategory link
 * should arrive here when *"Subcategory Link"* is clicked
 
+         ### Table of Contents
+            * [Link Title](#link-title) *text*
+                1. [Subcategory Link] (#subcategory-link)
 
 ### Hidden Footnotes
 
