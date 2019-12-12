@@ -22,7 +22,7 @@ ________________________________________________________________________________
     3. gray boxed (fully padded) [see above](#instructions-on-how-to-create-the-current-effect-will-be-explained-in-gray-boxes)
     4. `gray boxed` (only text content)
 * Create a Table
-* [How to Create a Link](#how-to-create-a-link) *a local link that will be redirected to a respective header*
+* [How to Create a Link](#how-to-create-a-link)
   1. [Subcategory Link](#subcategory-link)   
 * [Add Image(s)](#add-image(s))
 * [Hidden Footnotes](#hidden-notes)
@@ -87,7 +87,7 @@ ________________________________________________________________________________
 
 ### HOW TO CREATE A LINK 
 * should arrive here when *"Link"* is clicked
-
+*a local link that will be redirected to a respective header
 
 ### SUBCATEGORY LINK
 * should arrive here when *"Subcategory Link"* is clicked
