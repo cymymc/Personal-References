@@ -1,8 +1,7 @@
 # Basic Legend for Markdown Files
 
 
-### here
-Instructions on how to create the above effect will be explained in gray boxes.
+###### Instructions on how to create the above effect will be explained in gray boxes.
     
     Text in this gray box is created after 2 tabs in edit mode.
     
@@ -18,15 +17,15 @@ ________________________________________________________________________________
 ### Table of Contents:
 * [Headers](#headers)
 * [Text Styling](#text-styling)
-    1. *italicized
-    2. **bold
-    3. gray boxed (fully padded)[see above](#here)
+    1. *italicized*
+    2. **bold**
+    3. gray boxed (fully padded) [see above](#instructions-on-how-to-create-the-above-effect-will-be-explained-in-gray-boxes)
     4. `gray boxed` (only text content)
 * Create a Table
-* [How to Create a Link](#how-to-create-a-link) *a local link that will be redirected to a respective header with same title*
+* [How to Create a Link](#how-to-create-a-link) *a local link that will be redirected to a respective header*
   1. [Subcategory Link](#subcategory-link)   
-* Add Image
-* Hidden Footnotes
+* [Add Image](#add-image)
+* [Hidden Footnotes](#hidden-notes)
             
 _________________________________________________________________________________________________________
 
@@ -83,14 +82,12 @@ memccpy		| ft_strdel		| ft_lstadd		| ft_isspace
         memcpy		| ft_strnew		| ft_lstdel		| ft_numlen    
         memccpy		| ft_strdel		| ft_lstadd		| ft_isspace    
 
+_________________________________________________________________________________________________________
+
 
 ### How to Create a Link 
 * should arrive here when *"Link"* is clicked
 
-[Footnote Links][1] 
-
-    [links][1] == [footnote links][Number ub respective order] 
-    (See all footnotes/links at the very bottom, only visable in edit mode)
 
 ### subcategory link
 * should arrive here when *"Subcategory Link"* is clicked
@@ -99,8 +96,24 @@ memccpy		| ft_strdel		| ft_lstadd		| ft_isspace
             * [Link Title](#link-title) *text*
                 1. [Subcategory Link] (#subcategory-link)
 
+_________________________________________________________________________________________________________
+
+### Add Image
+
+* displaying visuals with image file(s) stored in the repository
+
+    ![alt text](image_file_url_stored_in_repo.png)
+
+_________________________________________________________________________________________________________
+
+
 ### Hidden Footnotes
 
+[Footnote Links][1] 
+
+    [links][1] == [footnote links][Number ub respective order] 
+    (See all footnotes/links at the very bottom, only visable in edit mode)
+    
 [1]: https://www.fakelinkjustfordemo.com"
 
     (A List of Footnote URLs Hidden in Visual Mode)
