@@ -40,12 +40,27 @@ ________________________________________________________________________________
     
 ## Example Text - Sub Header(1)
     
-        ## Double Hashtags
+        ## 2x Hashtags
     
 ### Example Text - Sub Header(2)
 
-        ### Triple Hashtags
-    
+        ### 3x Hashtags
+        
+#### Example Text - Sub Header(3)
+
+        #### 4x Hashtags
+
+##### Example Text - Sub Header(4)
+
+        ##### 5x Hashtags
+        
+###### Example Text - Sub Header(5)
+
+        ###### 6x Hashtags
+
+####### Example Text - Sub Header(6)
+
+        ####### 7x Hashtags
 _________________________________________________________________________________________________________
 
 ### TEXT STYLING
