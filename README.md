@@ -102,7 +102,7 @@ ________________________________________________________________________________
 
 * displaying visuals with image file(s) stored in the repository
 
-    ![alt text](image_file_url_stored_in_repo.png)
+    ![alt text](image_file_url_stored_in_repo.png) <------ *this image file dosen't exist"*
 
 _________________________________________________________________________________________________________
 
