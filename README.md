@@ -10,11 +10,12 @@ What you see in README visual mode.
     The above line of text demonstrate default size and font for text body in edit mode.
     
 
-_________________________________________________________________________________________________________
 
 
 
 ### Table of Contents:
+_________________________________________________________________________________________________________
+
 * [Headers](#headers)
 * [Text Styling](#text-styling)
     1. *italicized*
