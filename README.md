@@ -27,7 +27,16 @@ ________________________________________________________________________________
   1. [subcategory link](#subcategory-link)   
 * [Add Image(s)](#add-image(s))
 * [Hidden Footnotes](#hidden-notes)
-            
+       
+       
+         ### Table of Contents
+            * Normal Text
+                * sub-title
+                    * another sub-title 
+            * [Local Link](#link-title)
+                1. [Subcategory Link] (#subcategory-link)
+                2. Just Text
+
 _________________________________________________________________________________________________________
 
 
@@ -106,7 +115,6 @@ ________________________________________________________________________________
 
     ### subcategory link
 
-         ### Table of Contents
             * [Link Title](#link-title) *text*
                 1. [Subcategory Link] (#subcategory-link)
 
