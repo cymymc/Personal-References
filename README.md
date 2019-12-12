@@ -24,8 +24,8 @@ ________________________________________________________________________________
 * [Create a Table](#create-a-table)
 * [How to Create a Link](#how-to-create-a-link)
   1. [subcategory link](#subcategory-link)   
-* [Add Image(s)](#add-image(s))
-* [Hidden Footnotes](#hidden-notes)
+* [Add Image(s)](#add-images)
+* [Hidden Footnotes](#hidden-footnotes)
 * Random Text
     * sub-title that doesn't exist
         * another sub-title that doesn't exist
