@@ -1,9 +1,10 @@
-# Template Notes for Markdown Files
+# Cheatsheet for Markdown Files
 
 
-###### Instructions on how to create the current effect will be explained in gray boxes.
+###### Now look here:
     
-    Text in this gray box is created after 2 tabs in edit mode.
+    Instructions on how to create the above effect will be explained in gray boxes.
+    (Tab until text content turns gray in edit mode)
     
 What you see in README visual mode.
 
@@ -20,7 +21,7 @@ ________________________________________________________________________________
 * [Text Styling](#text-styling)
     1. *italicized*
     2. **bold**
-    3. gray boxed (fully padded) [see above](#instructions-on-how-to-create-the-current-effect-will-be-explained-in-gray-boxes)
+    3. gray boxed (fully padded) [see above](#see-here)
     4. `gray boxed` (only text content)
 * [Create a Table](#create-a-table)
 * [How to Create a Link](#how-to-create-a-link)
@@ -38,7 +39,7 @@ ________________________________________________________________________________
                      2. Just Text
                 * Random Text
                     * sub-title that doesn't exist
-                        * another sub-title that doesn't exist
+                        * another sub-title that doesn't exist(highlighted in red font in edit mode)
 
 _________________________________________________________________________________________________________
 
@@ -74,6 +75,7 @@ ________________________________________________________________________________
 
         ####### 7x Hashtags
 _________________________________________________________________________________________________________
+
 
 ### TEXT STYLING
 
