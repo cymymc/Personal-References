@@ -2,7 +2,7 @@
 
 
     
-    Instructions on how to create the above effect will be explained in gray boxes.
+    Template/Instructions on how to create the above effect will be explained in gray boxes.
     
 What you see in README visual mode.
 
