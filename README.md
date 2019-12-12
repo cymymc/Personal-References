@@ -24,7 +24,7 @@ ________________________________________________________________________________
 * Create a Table
 * [How to Create a Link](#how-to-create-a-link) *a local link that will be redirected to a respective header*
   1. [Subcategory Link](#subcategory-link)   
-* [Add Image](#add-image)
+* [Add Image(s)](#add-image(s))
 * [Hidden Footnotes](#hidden-notes)
             
 _________________________________________________________________________________________________________
@@ -64,7 +64,7 @@ ________________________________________________________________________________
  _________________________________________________________________________________________________________
 
             
-## Create a Table
+## CREATE A TABLE
 
 Libc functions | Additional functions | Bonus Functions | Personal Functions
 :----------- | :-----------: | :-----------: | -----------:
@@ -85,11 +85,11 @@ memccpy		| ft_strdel		| ft_lstadd		| ft_isspace
 _________________________________________________________________________________________________________
 
 
-### How to Create a Link 
+### HOW TO CREATE A LINK 
 * should arrive here when *"Link"* is clicked
 
 
-### subcategory link
+### SUBCATEGORY LINK
 * should arrive here when *"Subcategory Link"* is clicked
 
          ### Table of Contents
@@ -98,7 +98,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-### Add Image
+### ADD IMAGE(S)
 
 * displaying visuals with image file(s) stored in the repository
 
@@ -107,7 +107,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 
 
-### Hidden Footnotes
+### HIDDEN FOOTNOTES
 
 [Footnote Links][1] 
 
