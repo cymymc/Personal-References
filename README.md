@@ -1,7 +1,7 @@
 # Basic Legend for Markdown Files
 
 
-###### Instructions on how to create the above effect will be explained in gray boxes.
+###### Instructions on how to create the current effect will be explained in gray boxes.
     
     Text in this gray box is created after 2 tabs in edit mode.
     
@@ -19,7 +19,7 @@ ________________________________________________________________________________
 * [Text Styling](#text-styling)
     1. *italicized*
     2. **bold**
-    3. gray boxed (fully padded) [see above](#instructions-on-how-to-create-the-above-effect-will-be-explained-in-gray-boxes)
+    3. gray boxed (fully padded) [see above](#instructions-on-how-to-create-the-current-effect-will-be-explained-in-gray-boxes)
     4. `gray boxed` (only text content)
 * Create a Table
 * [How to Create a Link](#how-to-create-a-link) *a local link that will be redirected to a respective header*
