@@ -1,10 +1,8 @@
 # Cheatsheet for Markdown Files
 
 
-###### Now look here:
     
     Instructions on how to create the above effect will be explained in gray boxes.
-    (Tab until text content turns gray in edit mode)
     
 What you see in README visual mode.
 
@@ -19,10 +17,10 @@ ________________________________________________________________________________
 
 * [Headers](#headers)
 * [Text Styling](#text-styling)
-    1. *italicized*
-    2. **bold**
-    3. gray boxed (fully padded) [see above](#now-look-here)
-    4. `gray boxed` (only text content)
+    1. *italicized text*
+    2. **bold text**
+    3. `gray-color padded text` (only selected text content)
+    4. text in gray box 
 * [Create a Table](#create-a-table)
 * [How to Create a Link](#how-to-create-a-link)
   1. [subcategory link](#subcategory-link)   
@@ -89,8 +87,11 @@ ________________________________________________________________________________
 
 `example text`
     
-        `individual gray boxed text`
-        
+           `gray-color padded text`
+
+
+text in gray box (Tab until text content turns gray in edit mode)
+            
  _________________________________________________________________________________________________________
 
             
