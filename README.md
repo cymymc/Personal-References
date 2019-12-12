@@ -21,7 +21,7 @@ ________________________________________________________________________________
 * [Text Styling](#text-styling)
     1. *italicized*
     2. **bold**
-    3. gray boxed (fully padded) [see above](#see-here)
+    3. gray boxed (fully padded) [see above](#now-look-here)
     4. `gray boxed` (only text content)
 * [Create a Table](#create-a-table)
 * [How to Create a Link](#how-to-create-a-link)
