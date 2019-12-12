@@ -21,7 +21,7 @@ ________________________________________________________________________________
     2. **bold**
     3. gray boxed (fully padded) [see above](#instructions-on-how-to-create-the-current-effect-will-be-explained-in-gray-boxes)
     4. `gray boxed` (only text content)
-* Create a Table
+* [Create a Table](#create-a-table)
 * [How to Create a Link](#how-to-create-a-link)
   1. [Subcategory Link](#subcategory-link)   
 * [Add Image(s)](#add-image(s))
