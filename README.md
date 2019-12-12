@@ -32,13 +32,13 @@ ________________________________________________________________________________
         * another sub-title that doesn't exist
        
        
-         ### Table of Contents
-            * [Local Link](#link-title)
-                1. [Subcategory Link] (#subcategory-link)
-                2. Just Text
-            * Random Text
-                * sub-title that doesn't exist
-                    * another sub-title that doesn't exist
+                ### Table of Bullet Points
+                 * [Local Link](#link-title)
+                     1. [Subcategory Link] (#subcategory-link)
+                     2. Just Text
+                * Random Text
+                    * sub-title that doesn't exist
+                        * another sub-title that doesn't exist
 
 _________________________________________________________________________________________________________
 
