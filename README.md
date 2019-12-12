@@ -1,4 +1,4 @@
-# Basic Legend for Markdown Files
+# Template Notes for Markdown Files
 
 
 ###### Instructions on how to create the current effect will be explained in gray boxes.
