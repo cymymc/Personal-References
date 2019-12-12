@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 # Example Text - Main Header(0)
     
-        # Main Header
+        # 1x Hashtag
     
 ## Example Text - Sub Header(1)
     
