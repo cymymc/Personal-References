@@ -130,7 +130,9 @@ ________________________________________________________________________________
 
 * displaying visuals with image file(s) stored in the repository
 
-        ![alt text](image_file_url_stored_in_repo.png) <------ *this image file dosen't exist"*
+     ![alt text](image_file_url_stored_in_repo.png) <--- *this image file dosen't exist, therefore there is nothing to be displayed"*  
+        
+        ![alt text](image_file_url_stored_in_repo.png) 
 
 _________________________________________________________________________________________________________
 
