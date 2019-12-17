@@ -132,7 +132,7 @@ ________________________________________________________________________________
 
      ![alt text](image_file_url_stored_in_repo.png) <--- *this image file does not exist, therefore there is nothing to be displayed"*  
         
-        ![alternative text not displayed](image_file_url_stored_in_repo.png) 
+        ![alternative text not displayed](image_file_url_aka_path_of_source_stored_in_repo.png) 
 
 _________________________________________________________________________________________________________
 
