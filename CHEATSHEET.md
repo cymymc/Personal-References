@@ -77,20 +77,6 @@ ________________________________________________________________________________
 
 ## TEXT STYLING
 
-*italicized text*
-
-                *example text*
-
-**text in bold**
-        
-                **example text**
-
-`gray-color padded text`
-        
-```    
-                `example text`
-```
-
 ```
 text in gray box
 
@@ -99,6 +85,21 @@ text in gray box
                 option 1: sandwich "example text" with ```
                 option 2: (Tab until text content turns gray in edit mode)
                 ```
+
+`gray-color padded text`
+        
+```    
+            `example text`
+```
+
+*italicized text*
+
+                *example text*
+
+**text in bold**
+        
+                **example text**
+
             
  _________________________________________________________________________________________________________
 
