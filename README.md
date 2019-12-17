@@ -6,7 +6,7 @@
     
 What you see in README visual mode.
 
-    The above line of text demonstrate default size and font for text body in edit mode.
+    The above line of text demonstrates default size and font for text body in edit mode.
     
 
 _________________________________________________________________________________________________________
@@ -27,8 +27,8 @@ ________________________________________________________________________________
 * [Add Image(s)](#add-images)
 * [Hidden Footnotes](#hidden-footnotes)
 * Random Text
-    * sub-title that doesn't exist
-        * another sub-title that doesn't exist
+    * sub-title that does not exist
+        * another sub-title that does not exist
        
        
                 ### Table of Bullet Points
@@ -36,8 +36,8 @@ ________________________________________________________________________________
                      1. [Subcategory Link] (#subcategory-link)
                      2. Just Text
                 * Random Text
-                    * sub-title that doesn't exist
-                        * another sub-title that doesn't exist(highlighted in red font in edit mode)
+                    * sub-title that does not exist
+                        * another sub-title that does not exist(highlighted in red font in edit mode)
 
 _________________________________________________________________________________________________________
 
