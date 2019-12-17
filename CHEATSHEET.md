@@ -77,20 +77,28 @@ ________________________________________________________________________________
 
 ## TEXT STYLING
 
-*example text* 
+*italicized text*
+
+        *example text*
+
+**text in bold**
         
-        *italicized text*
+        **example text**
 
-**example text**
-    
-        **text in bold**
+`gray-color padded text`
+        
+        ```    
+        `example text`
+        ```
 
-`example text`
-    
-           `gray-color padded text`
+```
+text in gray box
 
-
-text in gray box (Tab until text content turns gray in edit mode)
+```
+        ```
+        option 1: sandwich "example text" with ```
+        option 2: (Tab until text content turns gray in edit mode)
+        ```
             
  _________________________________________________________________________________________________________
 
