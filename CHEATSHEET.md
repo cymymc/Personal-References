@@ -47,31 +47,31 @@ ________________________________________________________________________________
 
 # Example Text - Main Header(0)
     
-        # 1x Hashtag
+                # 1x Hashtag
     
 ## Example Text - Sub Header(1)
     
-        ## 2x Hashtags
+                ## 2x Hashtags
     
 ### Example Text - Sub Header(2)
 
-        ### 3x Hashtags
+                ### 3x Hashtags
         
 #### Example Text - Sub Header(3)
 
-        #### 4x Hashtags
+                #### 4x Hashtags
 
 ##### Example Text - Sub Header(4)
 
-        ##### 5x Hashtags
+                ##### 5x Hashtags
         
 ###### Example Text - Sub Header(5)
 
-        ###### 6x Hashtags
+                ###### 6x Hashtags
 
 ####### Example Text - Sub Header(6)
 
-        ####### 7x Hashtags
+                ####### 7x Hashtags
 _________________________________________________________________________________________________________
 
 
@@ -79,26 +79,26 @@ ________________________________________________________________________________
 
 *italicized text*
 
-        *example text*
+                *example text*
 
 **text in bold**
         
-        **example text**
+                **example text**
 
 `gray-color padded text`
         
 ```    
-        `example text`
+                `example text`
 ```
 
 ```
 text in gray box
 
 ```
-        ```
-        option 1: sandwich "example text" with ```
-        option 2: (Tab until text content turns gray in edit mode)
-        ```
+                ```
+                option 1: sandwich "example text" with ```
+                option 2: (Tab until text content turns gray in edit mode)
+                ```
             
  _________________________________________________________________________________________________________
 
