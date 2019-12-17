@@ -17,10 +17,10 @@ ________________________________________________________________________________
 
 * [Headers](#headers)
 * [Text Styling](#text-styling)
-    1. *italicized text*
-    2. **bold text**
-    3. `gray-color padded text` (only selected text)
-    4. text in gray box 
+    1. text in gray box
+    2. `gray-color padded text` (only selected text)
+    3. *italicized text*
+    4. **bold text**
 * [Create a Table](#create-a-table)
 * [How to Create a Link](#how-to-create-a-link)
   1. [subcategory link](#subcategory-link)   
