@@ -9,8 +9,7 @@ What you see in README visual mode.
     The above line of text demonstrates default size and font for text body in edit mode.
     
 
-_________________________________________________________________________________________________________
-
+___
 
 
 ### Table of Contents:
@@ -21,25 +20,32 @@ ________________________________________________________________________________
     2. `gray-color padded text` (only selected text)
     3. *italicized text*
     4. **bold text**
+    5. ***italicized + bold effect***
+    6. ***~~Strikethrough~~***
+* [Create Dividing Line](#create-dividing-line)
 * [Create a Table](#create-a-table)
+* [Create a Checklist](#create-a-checklist)
 * [How to Create a Link](#how-to-create-a-link)
   1. [subcategory link](#subcategory-link)   
 * [Add Image(s)](#add-images)
+* [Add Code from Different Programming Languages](#add-code-from-different-programming-languages)
+* [Block Reference](block-reference)
 * [Hidden Footnotes](#hidden-footnotes)
-* Random Text
-    * sub-title that does not exist
-        * another sub-title that does not exist
+- Random Text
+    - sub-title that does not exist
+        - another sub-title that does not exist
        
        
                 ### Table of Bullet Points
                  * [Local Link](#link-title)
                      1. [Subcategory Link] (#subcategory-link)
                      2. Just Text
-                * Random Text
-                    * sub-title that does not exist
-                        * another sub-title that does not exist(highlighted in red font in edit mode)
+                 - Random Text
+                    - sub-title that does not exist
+                        - another sub-title that does not exist(highlighted in red font in edit mode)
+                 - or * can be used to create bullet points
 
-_________________________________________________________________________________________________________
+________
 
 
 ## HEADERS
@@ -72,8 +78,8 @@ ________________________________________________________________________________
 ####### Example Text - Sub Header(6)
 
                 ####### 7x Hashtags
-_________________________________________________________________________________________________________
 
+______
 
 ## TEXT STYLING
 
@@ -94,16 +100,43 @@ text in gray box
 
 *italicized text*
 
-                *example text*
+                *example text* or _example text_
 
 **text in bold**
         
-                **example text**
+                **example text** or __example text__
+                
+***italicized + bold effect***
 
+                 ***italicized + bold effect*** or  ___italicized + bold effect___
+ 
+***~~Strikethrough~~***
+
+                 ***~~Strikethrough~~*** or ~~***Strikethrough***~~
             
  _________________________________________________________________________________________________________
 
-            
+## Create Dividing Line
+
+##### Option 1:
+***
+```
+            ***
+```
+
+##### Option 2:
+---
+```
+            ---
+```
+
+##### Option 3:
+___
+
+```
+            ___
+```
+
 ## CREATE A TABLE
 
 Libc functions | Additional functions | Bonus Functions | Personal Functions
@@ -125,6 +158,26 @@ memccpy		| ft_strdel		| ft_lstadd		| ft_isspace
 _________________________________________________________________________________________________________
 
 
+## Create a Checklist
+
+- [x] 需求分析
+- [x] 系统设计
+- [x] 详细设计
+- [ ] 编码
+- [ ] 测试
+- [ ] 交付
+
+```
+            - [x] 需求分析
+            - [x] 系统设计
+            - [x] 详细设计
+            - [ ] 编码
+            - [ ] 测试
+            - [ ] 交付
+```
+
+___
+
 ## HOW TO CREATE A LINK 
 * *a local link that will be redirected to a respective header
 
@@ -139,12 +192,55 @@ ________________________________________________________________________________
 
 * displaying visuals with image file(s) stored in the repository
 
-     ![alt text](image_file_url_stored_in_repo.png) <--- *this image file does not exist, therefore there is nothing to be displayed"*  
+    ![alt text](image_file_url_stored_in_repo.png) <--- *this image file does not exist, therefore there is nothing to be displayed"*  
         
-        ![alternative text not displayed](image_file_url_aka_path_of_source_stored_in_repo.png) 
+        ![alternative text not displayed](path_of_source_file_stored_in_repo.png) 
+  
+* displaying image from url source
+    
+    ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Github Logo")        
+    
+        ![alternative text not displayed](image_file_url.png)
 
 _________________________________________________________________________________________________________
 
+## Add Code from Different Proramming Languages
+
+```C
+
+int main(int argc, char *argv[]) //C
+
+```
+
+```
+            ```Add Name of Programming Language HERE
+            int main(int argc, char *argv[]) //C (not here)
+            ```
+```
+
+___
+
+## Block Reference
+
+Effect
+> A
+>> B
+>>> C
+>>>> D
+>>>>> E
+>>>>>> F
+
+```
+            Effect
+            > A
+            >> B
+            >>> C
+            >>>> D
+            >>>>> E
+            >>>>>> F
+```
+
+---
 
 ## HIDDEN FOOTNOTES
 
