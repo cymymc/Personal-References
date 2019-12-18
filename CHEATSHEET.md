@@ -25,12 +25,12 @@ ___
 * [Create Dividing Line](#create-dividing-line)
 * [Create a Table](#create-a-table)
 * [Create a Checklist](#create-a-checklist)
-* [How to Create a Link](#how-to-create-a-link)
+* [Create a Link](#create-a-link)
   1. [subcategory link](#subcategory-link)   
 * [Add Image(s)](#add-images)
 * [Add Code from Different Programming Languages](#add-code-from-different-programming-languages)
-* [Block Reference](#block-reference)
-* [Hidden Footnotes](#hidden-footnotes)
+* [Add Block Reference](#add-block-reference)
+* [Add Hidden Footnotes](#add-hidden-footnotes)
 - Random Text
     - sub-title that does not exist
         - another sub-title that does not exist
@@ -178,7 +178,7 @@ ________________________________________________________________________________
 
 ___
 
-## HOW TO CREATE A LINK 
+## CREATE A LINK 
 * *a local link that will be redirected to a respective header
 
     ### subcategory link
@@ -220,7 +220,7 @@ int main(int argc, char *argv[]) //C
 
 ___
 
-## Block Reference
+## Add Block Reference
 
 Effect
 > A
@@ -242,7 +242,7 @@ Effect
 
 ---
 
-## HIDDEN FOOTNOTES
+## Add Hidden Footnotes
 
 [Footnote Links][1] 
 
