@@ -2,7 +2,7 @@
 
 项目简介
 
-One Paragraph of project description goes here 
+* One Paragraph of project description goes here 
 
 ## 文档目录 | Table of Contents
 
@@ -12,7 +12,8 @@ One Paragraph of project description goes here
 使用说明。。。
 拷贝repo项目
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+* These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
 
@@ -20,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 具体需要安装的文件以及使用说明
 
-What things you need to install the software and how to install them
+* What things you need to install the software and how to install them
 
 ```
 举例
@@ -31,12 +32,12 @@ Give examples
 
 步骤说明：如何安装以及如何运行该项目程式
 
-A step by step series of examples that tell you how to get a development env running
+* A step by step series of examples that tell you how to get a development env running
 
 
 结尾附上小demo展现该程式的用处或最终该呈现的结果
 
-End with an example of getting some data out of the system or using it for a little demo
+* End with an example of getting some data out of the system or using it for a little demo
 
 
 ## 运行测试 | Running the tests
@@ -76,5 +77,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 致谢 | Acknowledgments
 
-* Billie Thompson(Content Author)
+* Billie Thompson (Content Author)
 * cymymc (for Chinese Translation)
