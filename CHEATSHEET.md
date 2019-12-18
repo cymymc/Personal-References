@@ -29,7 +29,7 @@ ___
   1. [subcategory link](#subcategory-link)   
 * [Add Image(s)](#add-images)
 * [Add Code from Different Programming Languages](#add-code-from-different-programming-languages)
-* [Block Reference](block-reference)
+* [Block Reference](#block-reference)
 * [Hidden Footnotes](#hidden-footnotes)
 - Random Text
     - sub-title that does not exist
