@@ -35,16 +35,16 @@ ___
     - sub-title that does not exist
         - another sub-title that does not exist
        
-       
-                ### Table of Bullet Points
-                 * [Local Link](#link-title)
-                     1. [Subcategory Link] (#subcategory-link)
-                     2. Just Text
-                 - Random Text
-                    - sub-title that does not exist
-                        - another sub-title that does not exist(highlighted in red font in edit mode)
-                 - or * can be used to create bullet points
-
+```       
+            ### Table of Bullet Points
+            * [Local Link](#link-title)
+                1. [Subcategory Link] (#subcategory-link)
+                2. J ust Text
+            - Random Text
+                - sub-title that does not exist
+                    - another sub-title that does not exist(highlighted in red font in edit mode)
+            - or * c an be used to create bullet points
+```
 ________
 
 
@@ -257,7 +257,7 @@ Effect
     [2]: https://www.fakelinkjustfordemo1.com"
     [3]: https://www.fakelinkjustfordemo2.com"
 
-
+___
 
 RANDOM TEXT STARTS
 
