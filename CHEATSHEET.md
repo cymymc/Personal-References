@@ -16,12 +16,12 @@ ___
 
 * [Headers](#headers)
 * [Text Styling](#text-styling)
-    1. text in gray box
-    2. `gray-color padded text` (only selected text)
-    3. *italicized text*
-    4. **bold text**
-    5. ***italicized + bold effect***
-    6. ***~~Strikethrough~~***
+    * text in gray box
+    * `gray-color padded text` (only selected text)
+    * *italicized text*
+    * **bold text**
+    * ***italicized + bold effect***
+    * ***~~Strikethrough~~***
 * [Create Dividing Line](#create-dividing-line)
 * [Create a Table](#create-a-table)
 * [Create a Checklist](#create-a-checklist)
@@ -180,9 +180,10 @@ ___
 
     ### subcategory link
 
+```
             * [Link Title](#link-title) *text*
                 1. [Subcategory Link] (#subcategory-link)
-
+```
 _________________________________________________________________________________________________________
 
 ## ADD IMAGE(S)
@@ -190,15 +191,18 @@ ________________________________________________________________________________
 * displaying visuals with image file(s) stored in the repository
 
     ![alt text](image_file_url_stored_in_repo.png) <--- *this image file does not exist, therefore there is nothing to be displayed"*  
-        
+
+```
         ![alternative text not displayed](path_of_source_file_stored_in_repo.png) 
-  
+```
+
 * displaying image from url source
     
     ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Github Logo")        
     
+```    
         ![alternative text not displayed](image_file_url.png)
-
+```
 _________________________________________________________________________________________________________
 
 ## Add Code from Different Programming Languages
