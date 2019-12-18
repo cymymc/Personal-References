@@ -51,33 +51,30 @@ ________
 ## HEADERS
 
 
-# Example Text - Main Header(0)
+# Main Header(0)
     
-                # 1x Hashtag
+                # Main Header(0)
     
-## Example Text - Sub Header(1)
+## Sub Header(1)
     
-                ## 2x Hashtags
+                ## Sub Header(1)
     
-### Example Text - Sub Header(2)
+### Sub Header(2)
 
-                ### 3x Hashtags
+                ### Sub Header(2)
         
-#### Example Text - Sub Header(3)
+#### Sub Header(3)
 
-                #### 4x Hashtags
+                #### Sub Header(3)
 
-##### Example Text - Sub Header(4)
+##### Sub Header(4)
 
-                ##### 5x Hashtags
+                ##### Sub Header(4)
         
-###### Example Text - Sub Header(5)
+###### Sub Header(5)
 
-                ###### 6x Hashtags
+                ###### Sub Header(5)
 
-####### Example Text - Sub Header(6)
-
-                ####### 7x Hashtags
 
 ______
 
