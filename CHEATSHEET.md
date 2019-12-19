@@ -176,7 +176,7 @@ ________________________________________________________________________________
 ___
 
 ## CREATE A LINK 
-* *a local link that will be redirected to a respective header
+* a local link that will be redirected to its respective header
 
     ### subcategory link
 
