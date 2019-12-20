@@ -5,7 +5,7 @@
 ___
 ## 文档目录 | Table of Contents
 
-* [起步 | Getting Started](#起步-|-getting-gtarted)
+* [起步 | Getting Started](#起步-getting-gtarted)
 * 事前准备 | Prerequisites
 * 安装 | Installing
 * 运行测试 | Running the tests
@@ -31,7 +31,7 @@ ___
 致谢 | Acknowledgments
 参考 | Reference
 ___
-### 起步 | Getting Started
+### 起步 Getting Started
 
 
 使用说明。。。
