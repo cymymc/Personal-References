@@ -254,9 +254,9 @@ Effect
 
     (A List of Footnote URLs Hidden in Visual Mode)
     This is what you will see in edit mode:
-    [1]: https://www.fakelinkjustfordemo0.com"
-    [2]: https://www.fakelinkjustfordemo1.com"
-    [3]: https://www.fakelinkjustfordemo2.com"
+    [1]: https://www.fakelinkjustfordemo0.com
+    [2]: https://www.fakelinkjustfordemo1.com
+    [3]: https://www.fakelinkjustfordemo2.com
 
 ___
 
