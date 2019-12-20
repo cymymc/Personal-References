@@ -25,8 +25,8 @@ ___
 * [Create Dividing Line](#create-dividing-line)
 * [Create a Table](#create-a-table)
 * [Create a Checklist](#create-a-checklist)
-* [Create a Link](#create-a-link)
-  1. [subcategory link](#subcategory-link)   
+* [Create a Local Link](#create-a-local-link)
+  1. [Subcategory link](#subcategory-link)   
 * [Add Image(s)](#add-images)
 * [Add Code from Different Programming Languages](#add-code-from-different-programming-languages)
 * [Add Block Reference](#add-block-reference)
@@ -175,10 +175,10 @@ ________________________________________________________________________________
 
 ___
 
-## CREATE A LINK 
+## Create a Local Link 
 * a local link that will be redirected to its respective header
 
-    ### subcategory link
+    ### Subcategory link
 
 ```
             * [Link Title](#link-title) *text*
