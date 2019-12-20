@@ -9,7 +9,7 @@ ___
 * [事前准备 | Prerequisites](#事前准备-prerequisites)
 * [安装 | Installing](#安装-installing)
 * [运行测试 | Running the tests](#运行测试-running-the-tests)
-* [建设资源 | Built With](#建设资源-built With)
+* [建设资源 | Built With](#建设资源-built-with)
 * [贡献者 | Contributors](#贡献者-contributors)
 * [版本 | Version](#版本-version)
 * [作者 | Authors](#作者-authors)
