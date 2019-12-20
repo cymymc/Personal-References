@@ -5,7 +5,7 @@
 ___
 ## 文档目录 | Table of Contents
 
-* [起步 | Getting Started](#起-步-|-getting-started)
+* [起步 | Getting Started](#起步-|-getting-started)
 * 事前准备 | Prerequisites
 * 安装 | Installing
 * 运行测试 | Running the tests
