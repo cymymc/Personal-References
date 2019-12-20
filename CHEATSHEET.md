@@ -190,10 +190,10 @@ ________________________________________________________________________________
 
 * displaying visuals with image file(s) stored in the repository
 
-    ![alt text](image_file_url_stored_in_repo.png) <--- *this image file does not exist, therefore there is nothing to be displayed"*  
+    ![alt text](image_file_url_stored_in_repo.png "This is image title") <--- *this image file does not exist, therefore there is nothing to be displayed"*  
 
 ```
-        ![alternative text not displayed](path_of_source_file_stored_in_repo.png) 
+        ![text not displayed](path_of_source_file_stored_in_repo.png "hover to see image title") 
 ```
 
 * displaying image from url source
@@ -201,7 +201,7 @@ ________________________________________________________________________________
     ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Github Logo")        
     
 ```    
-        ![alternative text not displayed](image_file_url.png)
+        ![text not displayed](image_file_url.png "hover to see image title")
 ```
 _________________________________________________________________________________________________________
 
