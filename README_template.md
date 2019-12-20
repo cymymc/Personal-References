@@ -19,7 +19,7 @@ ___
 
 中文 | English
 :----------- | :-----------:  
-[起步](#起步) | [Getting Started](#getting-started)
+起步 | Getting Started
 事前准备 | Prerequisites
 安装 | Installing
 运行测试 | Running the tests
