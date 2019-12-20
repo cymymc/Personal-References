@@ -6,30 +6,19 @@ ___
 ## 文档目录 | Table of Contents
 
 * [起步 | Getting Started](#起步-getting-started)
-* 事前准备 | Prerequisites
-* 安装 | Installing
-* 运行测试 | Running the tests
-* 建设资源 | Built With
-* 贡献者 | Contributing
-* 版本 | Versioning
-* 作者 | Authors
-* 执照？？？许可证？？？ | License
-* 致谢 | Acknowledgments
-* 参考 | Reference
+* [事前准备 | Prerequisites](#事前准备-prerequisites)
+* [安装 | Installing](#安装-installing)
+* [运行测试 | Running the tests](#运行测试-running-the-tests)
+* [建设资源 | Built With](#建设资源-built With)
+* [贡献者 | Contributors](#贡献者-contributors)
+* [版本 | Version](#版本-version)
+* [作者 | Authors](#作者-authors)
+* [执照？？？许可证？？？ | License](#执照？？？许可证？？？-License)
+* [致谢 | Acknowledgments](#致谢-acknowledgments)
+* [参考 | Reference](#参考-Reference)
+* [摘记 | Other Notes](#摘记-other-notes)
 
-中文 | English
-:----------- | :-----------:  
-[起步](#起步-getting-started) | [Getting Started](#起步-getting-started)
-事前准备 | Prerequisites
-安装 | Installing
-运行测试 | Running the tests
-建设资源 | Built With
-贡献者 | Contributing
-版本 | Versioning
-作者 | Authors
-执照？？？许可证？？？ | License
-致谢 | Acknowledgments
-参考 | Reference
+
 ___
 ### 起步 Getting Started
 
@@ -43,7 +32,7 @@ ___
 
 
 ___
-### 事前准备 | Prerequisites
+### 事前准备 Prerequisites
 
 具体需要安装的文件以及使用说明
 
@@ -55,7 +44,7 @@ Give examples
 ```
 
 ___
-### 安装 | Installing
+### 安装 Installing
 
 步骤说明：如何安装以及如何运行该项目程式
 
@@ -68,7 +57,7 @@ ___
 
 
 ___
-### 运行测试 | Running the tests
+### 运行测试 Running the tests
 
 详细说明如何运行该系列的测试和测试的用处
 
@@ -77,50 +66,50 @@ ___
 
 
 ___
-### 建设资源 | Built With
+### 建设资源 Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ___
-### 贡献者 | Contributing
+### 贡献者 Contributors
 
 外部链接：更详细的贡献说明
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ___
-### 版本 | Versioning
+### 版本 Version
 
 版本说明
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ___
-### 作者 | Authors
+### 作者 Authors
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ___
-### 执照？？？许可证？？？ | License
+### 执照？？？许可证？？？ License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ___
-### 致谢 | Acknowledgments
+### 致谢 Acknowledgments
 
 * Billie Thompson (Content Author)
 * cymymc (for Chinese Translation)
 
 ___
-### 参考 | Reference
+### 参考 Reference
 
 
 
 ___
-### 摘记 | Other Notes
+### 摘记 Other Notes
 
 项目简介 - Project Summary / Brief Description
 
