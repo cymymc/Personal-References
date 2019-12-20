@@ -250,7 +250,7 @@ Effect
     [link][1] == [footnote link title][number in respective order] 
     (See all footnotes/links at the very bottom, only visable in edit mode)
     
-[1]: https://www.fakelinkjustfordemo.com"
+[1]: https://www.fakelinkjustfordemo.com
 
     (A List of Footnote URLs Hidden in Visual Mode)
     This is what you will see in edit mode:
