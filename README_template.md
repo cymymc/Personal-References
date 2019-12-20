@@ -31,7 +31,9 @@ ___
 致谢 | Acknowledgments
 参考 | Reference
 ___
-### 起步 | Getting Started
+### 起步
+
+| Getting Started
 
 
 使用说明。。。
