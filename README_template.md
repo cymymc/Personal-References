@@ -13,7 +13,7 @@ ___
 * [贡献者 | Contributors](#贡献者-contributors)
 * [版本 | Version](#版本-version)
 * [作者 | Authors](#作者-authors)
-* [执照？？？许可证？？？ | License](#执照？？？许可证？？？-License)
+* [执照？？？许可证？？？ | License](#执照？？？许可证？？？-License) <-- local link doesn't work
 * [致谢 | Acknowledgments](#致谢-acknowledgments)
 * [参考 | Reference](#参考-Reference)
 * [摘记 | Other Notes](#摘记-other-notes)
